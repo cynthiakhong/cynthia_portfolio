@@ -12,9 +12,9 @@ Throughout my academic and professional journey, I have developed a robust analy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Programming        | <a href="https://github.com/cynthiakhong/Big-Mart-Sales-Prediction/tree/main">Big Mart Sales Prediction</a>|
-| Data Cleaning and Preprocessing         |<a href="https://github.com/cynthiakhong/Big-Mart-Sales-Prediction/tree/main">Big Mart Sales Prediction</a>|
-| Exploratory Data Analysis (EDA) |<a href="https://github.com/cynthiakhong/Big-Mart-Sales-Prediction/tree/main">Big Mart Sales Prediction</a>|
-| Machine Learning Model Development      |<a href="https://github.com/cynthiakhong/Big-Mart-Sales-Prediction/tree/main">Big Mart Sales Prediction</a>|
-| Data Visualization     |<a href="https://github.com/cynthiakhong/Big-Mart-Sales-Prediction/tree/main">Big Mart Sales Prediction</a>|
+| Python Programming        | <a href="https://github.com/cynthiakhong/Big-Mart-Sales-Prediction/tree/main">Big Mart Sales Prediction</a>, <a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Analyzing Flights Delay</a>|
+| Data Cleaning and Preprocessing         |<a href="https://github.com/cynthiakhong/Big-Mart-Sales-Prediction/tree/main">Big Mart Sales Prediction</a>, <a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Analyzing Flights Delay</a>|
+| Exploratory Data Analysis (EDA) |<a href="https://github.com/cynthiakhong/Big-Mart-Sales-Prediction/tree/main">Big Mart Sales Prediction</a>, <a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Analyzing Flights Delay</a>|
+| Machine Learning Model Development      |<a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Big Mart Sales Prediction</a>, <a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Analyzing Flights Delay</a>|
+| Data Visualization     |<a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Big Mart Sales Prediction</a>, <a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Analyzing Flights Delay</a>|
 | Dashboard Creation with Tableau             | SOC Automation Lab||
