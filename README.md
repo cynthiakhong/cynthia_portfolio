@@ -18,3 +18,4 @@ Throughout my academic and professional journey, I have developed a robust analy
 | Machine Learning Model Development      |<a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Big Mart Sales Prediction</a>, <a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Analyzing Flights Delay</a>|
 | Data Visualization     |<a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Big Mart Sales Prediction</a>, <a href="https://github.com/cynthiakhong/Analyzing-Flights-Delay-Pattern/tree/main">Analyzing Flights Delay</a>|
 | Dashboard Creation with Tableau             |<a href="https://github.com/cynthiakhong/Sales-Performance-and-Trends/tree/main">Sales Performance and Trends</a>|
+| Market Research, Research Proposal Writing            |<a href="https://github.com/cynthiakhong/Nespresso-Case-Study">Nespresso Market Research Proposal</a>|
